@@ -207,10 +207,12 @@ a:focus {
 }
 
 .intro-body .btn,
-#terugblik {
+#terugblik .btn,
+#blikvooruit .btn {
   color: #0090be !important;
   border: 2px solid #0090be !important;
 }
+
 .btn-circle {
   margin-bottom: 5%;
 }
